@@ -28,7 +28,7 @@ The system includes:
 
 ## 🧠 System Pipeline
 
-```text
+```markdown 
 Camera + LiDAR + V2X
         ↓
 Object Detection
@@ -39,17 +39,18 @@ Trajectory Prediction
         ↓
 Risk Assessment
         ↓
+```
 Safe / Warning / Critical
-        ↓
+       ↓
 Driver Warning
 ## 📸 Project Images
 
-![Project Image 1](images/IMG_2042.jpeg)
+<img src="images/IMG_2042.jpeg" width="500">
 
-![Project Image 2](images/IMG_2043.jpeg)
+<img src="images/IMG_2043.jpeg" width="500">
 
-![Project Image 3](images/IMG_2044.jpeg)
+<img src="images/IMG_2044.jpeg" width="500">
 
-![Project Image 4](images/IMG_2045.jpeg)
+<img src="images/IMG_2045.jpeg" width="500">
 
-![Project Image 5](images/IMG_2046.jpeg)
+<img src="images/IMG_2046.jpeg" width="500">
